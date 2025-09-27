@@ -52,11 +52,6 @@ tr:hover {
   background-color: #222;
   box-shadow: inset 0 0 10px #0ff;
   transition: 0.3s;
-
-
-
-
-    }
     button {
       background: none; border: 2px solid #f0f;
       color: #f0f; padding: 8px 16px;
