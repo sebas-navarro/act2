@@ -101,12 +101,10 @@ body {
   <section id="multimedia">
     <h2>Multimedia</h2>
     <p>A continuación un video ilustrativo y un clip de YouTube sobre la Bajaj Platina 125:</p>
-   <!-- Video YouTube via iframe -->
+   <!-- Video YouTube-->
    <iframe width="480" height="290" src="https://www.youtube.com/embed/gAMOw-aLx4A"
       title="Conoce la Platino 125, comodidad en todo sentido" frameborder="0" allowfullscreen>
     </iframe>
-    </video>
-    <!-- Video YouTube via iframe -->
     <iframe width="480" height="270" src="https://www.youtube.com/embed/2bIlFQtHeOY"
       title="Video Bajaj Platina 125" frameborder="0" allowfullscreen>
     </iframe>
