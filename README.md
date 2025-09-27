@@ -1,5 +1,4 @@
 Last Breath
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -76,8 +75,8 @@ Last Breath
   </nav>
   <section id="ficha-tecnica">
     <h2>Ficha Técnica y Especificaciones</h2>
-    <p>La Bajaj Platina 125 cuenta con un motor 124 cc de 4 tiempos, refrigerado por aire, con tecnología DTS-i. Su potencia máxima es de 8.6 CV a 7000 rpm y el par máximo de 9.81 Nm a 5000 rpm:contentReference[oaicite:13]{index=13}. El asiento largo y acolchado brinda comodidad para dos personas:contentReference[oaicite:14]{index=14}. A continuación se detallan algunas especificaciones clave:</p>
-    <table>
+    <p>La Bajaj Platina 125 cuenta con un motor 124 cc de 4 tiempos, refrigerado por aire, con tecnología DTS-i. Su potencia máxima es de 8.6 CV a 7000 rpm y el par máximo de 9.81 Nm a 5000 rpm. El asiento largo y acolchado brinda comodidad para dos personas. A continuación se detallan algunas especificaciones clave:</p>
+  <table>
       <tr>
         <th>Especificación</th>
         <th>Detalle</th>
@@ -87,7 +86,7 @@ Last Breath
       <tr><td>Torque máximo</td><td>9.81 Nm @ 5000 rpm</td></tr>
       <tr><td>Peso en vacío</td><td>117 kg</td></tr>
       <tr><td>Combustible</td><td>Gasolina (tanque 11 L)</td></tr>
-    
+    </table>
   </section>
   <section id="ensamble">
     <h2>Ensamble y Distribución</h2>
