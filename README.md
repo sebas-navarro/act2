@@ -40,15 +40,6 @@ body {
 
 .specs-list strong {
   color: #fff; /* Resaltar títulos en blanco */
-
-
-
-
-
-
-
-
-    }
     button {
       background: none; border: 2px solid #f0f;
       color: #f0f; padding: 8px 16px;
@@ -105,8 +96,6 @@ body {
    <iframe width="480" height="290" src="https://www.youtube.com/embed/gAMOw-aLx4A"
       title="Conoce la Platino 125, comodidad en todo sentido" frameborder="0" allowfullscreen>
     </iframe>
-    </video>
-    <!-- Video YouTube via iframe -->
     <iframe width="480" height="270" src="https://www.youtube.com/embed/2bIlFQtHeOY"
       title="Video Bajaj Platina 125" frameborder="0" allowfullscreen>
     </iframe>
