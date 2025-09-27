@@ -6,42 +6,28 @@
   <!-- Fuente de estilo futurista -->
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
   <style>
-    body {
-      margin: 0; padding: 0;
-      background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
-      font-family: 'Orbitron', sans-serif;
-      color: #ffffff;
-    }
-    header, footer { text-align: center; padding: 20px; }
-    nav { text-align: center; margin: 20px 0; }
-    nav ul {
-      list-style: none;
-      padding: 0;
-      display: inline-flex;
-      gap: 30px;
-    }
-    nav a {
-      color: #0ff; text-decoration: none;
-      padding: 10px 15px; border: 2px solid #0ff;
-      border-radius: 5px; transition: 0.3s;
-    }
-    nav a:hover {
-      background-color: #0ff; color: #000;
-      box-shadow: 0 0 10px #0ff;
-    }
-    section { padding: 20px; max-width: 800px; margin: auto; }
-    h1, h2 { color: #0ff; }
-   table {
+    /* Fondo general */
+body {
+  margin: 0; 
+  padding: 0;
+  background: linear-gradient(135deg, #0d0d0d, #2a003f); /* Negro -> violeta oscuro */
+  font-family: 'Orbitron', sans-serif;
+  color: #ffffff;
+}
+
+/* Tabla con contraste */
+table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 15px;
   box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);
-  border: 2px solid #0ff; /* Borde brillante */
+  border: 2px solid #0ff;
+  background-color: rgba(20, 20, 20, 0.85); /* Caja oscura semitransparente */
 }
 
 th {
-  background: linear-gradient(135deg, #0ff, #09f); /* Azul futurista */
-  color: #000; /* Texto negro para contraste */
+  background: linear-gradient(135deg, #0ff, #09f);
+  color: #000;
   text-align: center;
   padding: 12px;
 }
@@ -55,17 +41,19 @@ td {
 
 /* Filas alternadas */
 tr:nth-child(even) {
-  background-color: #1a1a1a; /* gris oscuro */
+  background-color: #1c1c1c;
 }
 tr:nth-child(odd) {
-  background-color: #111; /* más oscuro */
+  background-color: #111;
 }
 
-/* Efecto hover en filas */
+/* Hover con efecto neón */
 tr:hover {
   background-color: #222;
   box-shadow: inset 0 0 10px #0ff;
   transition: 0.3s;
+
+
 
 
     }
