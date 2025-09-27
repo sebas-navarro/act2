@@ -86,8 +86,7 @@
       <tr><td>Torque máximo</td><td>9.81 Nm @ 5000 rpm</td></tr>
       <tr><td>Peso en vacío</td><td>117 kg</td></tr>
       <tr><td>Combustible</td><td>Gasolina (tanque 11 L)</td></tr>
-    </table>
-    <button>Ver ficha completa</button>
+    
   </section>
   <section id="ensamble">
     <h2>Ensamble y Distribución</h2>
