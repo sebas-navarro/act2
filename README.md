@@ -106,7 +106,7 @@
     </iframe>
   </section>
   <footer>
-    <p>&copy; 2025 Bajaj Auto Ltd.<br>JSNP.</p>
+    <p>&copy; 2025 Bajaj Auto Ltd.<br>JN.</p>
   </footer>
 </body>
 </html>
