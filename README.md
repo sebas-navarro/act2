@@ -15,28 +15,22 @@ body {
   color: #ffffff;
 }
 
-/* Lista futurista */
-.specs-list {
-  list-style: none; /* Quita viñetas */
-  padding: 0;
-  margin: 20px auto;
+#specs {
   width: 80%;
+  margin: 30px auto;
+  padding: 20px;
   background: rgba(0, 0, 0, 0.6);
   border-radius: 12px;
   box-shadow: 0 0 25px #0ff;
-}
-
-.specs-list li {
-  padding: 12px;
-  margin: 5px 0;
-  border-bottom: 1px solid rgba(0, 255, 255, 0.3);
-  color: #0ff; /* Texto cian */
+  color: #0ff; /* Texto cian futurista */
   font-size: 1.1em;
+  line-height: 1.6;
 }
 
-.specs-list li:last-child {
-  border-bottom: none;
+#specs strong {
+  color: #fff; /* Resalta palabras clave en blanco */
 }
+
 
 .specs-list strong {
   color: #fff; /* Resaltar títulos en blanco */
