@@ -65,7 +65,7 @@ body {
   </nav>
   <section id="ficha-tecnica">
     <h2>Ficha Técnica y Especificaciones</h2>
-    <p>La Bajaj Platina 125 cuenta con un motor 1144.45 cc de 4 tiempos, refrigerado por aire, con tecnología DTS-i. Su potencia máxima es de 8.6 CV a 7000 rpm y el par máximo de 9.81 Nm a 5000 rpm. El asiento largo y acolchado brinda comodidad para dos personas. A continuación se detallan algunas especificaciones clave:</p>
+    <p>La Bajaj Platina 125 cuenta con un motor 114.45 cc de 4 tiempos, refrigerado por aire, con tecnología DTS-i. Su potencia máxima es de 8.6 CV a 7000 rpm y el par máximo de 9.81 Nm a 5000 rpm. El asiento largo y acolchado brinda comodidad para dos personas. A continuación se detallan algunas especificaciones clave:</p>
     <table>
       <tr>
         <th>Especificación</th>
