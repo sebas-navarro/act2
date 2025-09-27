@@ -15,31 +15,33 @@ body {
   color: #ffffff;
 }
 
-/* Tabla futurista */
-table {
-  width: 80%;
+/* Lista futurista */
+.specs-list {
+  list-style: none; /* Quita viñetas */
+  padding: 0;
   margin: 20px auto;
-  border-collapse: collapse;
+  width: 80%;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 12px;
   box-shadow: 0 0 25px #0ff;
-  background: rgba(0, 0, 0, 0.7);
-  border-radius: 10px;
-  overflow: hidden;
 }
 
-th {
-  background: linear-gradient(135deg, #0ff, #09f);
+.specs-list li {
   padding: 12px;
+  margin: 5px 0;
+  border-bottom: 1px solid rgba(0, 255, 255, 0.3);
+  color: #0ff; /* Texto cian */
+  font-size: 1.1em;
 }
 
-td {
-  padding: 10px;
-  background: rgba(255, 255, 255, 0.05);
+.specs-list li:last-child {
+  border-bottom: none;
 }
 
-/* Texto unificado en cian */
-th, td {
-  color: #0ff;
-  text-align: left;
+.specs-list strong {
+  color: #fff; /* Resaltar títulos en blanco */
+
+
 
 
 
