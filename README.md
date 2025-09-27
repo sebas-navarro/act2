@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -15,43 +15,38 @@ body {
   color: #ffffff;
 }
 
-/* Tabla con contraste */
+/* Tabla futurista */
 table {
-  width: 100%;
+  width: 80%;
+  margin: 20px auto;
   border-collapse: collapse;
-  margin-top: 15px;
-  box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);
-  border: 2px solid #0ff;
-  background-color: rgba(20, 20, 20, 0.85); /* Caja oscura semitransparente */
+  box-shadow: 0 0 25px #0ff;
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  overflow: hidden;
 }
 
 th {
   background: linear-gradient(135deg, #0ff, #09f);
-  color: #000;
-  text-align: center;
   padding: 12px;
 }
 
 td {
-  padding: 12px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Texto unificado en cian */
+th, td {
+  color: #0ff;
   text-align: left;
-  color: #fff;
-  border-bottom: 1px solid #333;
-}
 
-/* Filas alternadas */
-tr:nth-child(even) {
-  background-color: #1c1c1c;
-}
-tr:nth-child(odd) {
-  background-color: #111;
-}
 
-/* Hover con efecto neón */
-tr:hover {
-  background-color: #222;
-  box-shadow: inset 0 0 10px #0ff;
-  transition: 0.3s;
+
+
+
+
+    }
     button {
       background: none; border: 2px solid #f0f;
       color: #f0f; padding: 8px 16px;
@@ -104,11 +99,12 @@ tr:hover {
   <section id="multimedia">
     <h2>Multimedia</h2>
     <p>A continuación un video ilustrativo y un clip de YouTube sobre la Bajaj Platina 125:</p>
-   <!-- Video YouTube  -->
+   <!-- Video YouTube via iframe -->
    <iframe width="480" height="290" src="https://www.youtube.com/embed/gAMOw-aLx4A"
       title="Conoce la Platino 125, comodidad en todo sentido" frameborder="0" allowfullscreen>
     </iframe>
-    <!-- Video YouTube  -->
+    </video>
+    <!-- Video YouTube via iframe -->
     <iframe width="480" height="270" src="https://www.youtube.com/embed/2bIlFQtHeOY"
       title="Video Bajaj Platina 125" frameborder="0" allowfullscreen>
     </iframe>
