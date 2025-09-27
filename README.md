@@ -1,4 +1,5 @@
-<!Last Breath>
+Last Breath
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -6,7 +7,7 @@
   <!-- Fuente de estilo futurista -->
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
   <style>
-    body 
+    body {
       margin: 0; padding: 0;
       background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
       font-family: 'Orbitron', sans-serif;
